@@ -1,5 +1,17 @@
 # Altarie
 
+**Continent** Bellica
+
+**Gouvernement** Fédération
+
+**Habitants** Altarois·es
+
+**Altitude** 340m à 6482m
+
+**Température** 58°C en moy.
+
+**Population** 106 585 habitant·es
+
 ## Configuration
 
 <details>

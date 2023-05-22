@@ -8,20 +8,32 @@
 
 ## Planète
 
-* [📜 Genèse (4)](planete/genese-4/README.md)
+* [📜 Genèse](planete/genese-4/README.md)
   * [Introduction](planete/genese-4/introduction.md)
   * [Deux Dieux](planete/genese-4/deux-dieux.md)
   * [La Loi des Cycles](planete/genese-4/la-loi-des-cycles.md)
   * [Sol](planete/genese-4/sol.md)
-* [🏰 Histoire (0)](planete/histoire-0.md)
-* [🗺 Géographie (0)](planete/geographie-0.md)
-* [🌦 Climatologie (1)](planete/climatologie-1/README.md)
+* [🏰 Histoire](planete/histoire-0.md)
+* [🗺 Géographie](planete/geographie-0.md)
+* [🌦 Climatologie](planete/climatologie-1/README.md)
   * [Le Fogg](planete/climatologie-1/le-fogg.md)
+* [🕌 Lieux](planete/lieux/README.md)
+  * [La forêt secrète de brocolis](planete/lieux/la-foret-secrete-de-brocolis.md)
 
 ## Culture
 
-* [⛳ Peuples (8)](culture/peuples-8/README.md)
+* [⛳ Peuples](culture/peuples-8/README.md)
   * [Altarie](culture/peuples-8/altarie.md)
+  * [Borée](culture/peuples-8/boree.md)
+  * [Chama](culture/peuples-8/chama.md)
+  * [Confédération de Scande](culture/peuples-8/confederation-de-scande.md)
+  * [Les Jacobsters](culture/peuples-8/les-jacobsters.md)
+  * [Prisma](culture/peuples-8/prisma.md)
+  * [Rhafa](culture/peuples-8/rhafa.md)
+  * [Solarie](culture/peuples-8/solarie.md)
+  * [UFC](culture/peuples-8/ufc.md)
+* [🥘 Nourriture](culture/nourriture.md)
+* [🍹 Boissons](culture/boissons.md)
 
 ## biodiversité
 
