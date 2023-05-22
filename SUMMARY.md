@@ -40,6 +40,7 @@
 * [🐗 Faune](biodiversite/faune/README.md)
   * [Les vers de terre](biodiversite/faune/les-vers-de-terre.md)
 * [🌺 Flore](biodiversite/flore/README.md)
+  * [Solaria](biodiversite/flore/solaria.md)
   * [Mauve Aise](biodiversite/flore/mauve-aise.md)
   * [Vinotte Pleureuse](biodiversite/flore/vinotte-pleureuse.md)
   * [Milidou Piquant](biodiversite/flore/milidou-piquant.md)
